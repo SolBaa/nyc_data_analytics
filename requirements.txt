@@ -1,0 +1,7 @@
+greenlet==2.0.2
+SQLAlchemy==2.0.19
+typing_extensions==4.7.1
+psycopg2-binary==2.9.6
+numpy==1.25.1
+packaging==23.1
+pandas==2.0.3
