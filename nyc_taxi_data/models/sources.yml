@@ -1,0 +1,5 @@
+sources:
+  - name: nyc_taxi
+    tables:
+      - name: yellow_taxi
+      - name: locations
